@@ -26,5 +26,5 @@ Directory | Description
 + **Website:** [www.aspose.com](http://www.aspose.com)
 + **Product Home:** [Aspose.Slides for Cloud](http://www.aspose.com/cloud/powerpoint-api.aspx)
 + **Documentation:** [Aspose.Slides for Cloud Documentation](http://www.aspose.com/docs/display/slidescloud/Home)
-+ **Forum:** [Aspose.Slides for Cloud Forum](http://www.aspose.com/community/forums/aspose.slides-product-family/75/showforum.aspx)
++ **Forum:** [Aspose.Slides for Cloud Forum](https://www.aspose.com/community/forums/aspose.slides-product-family/109/showforum.aspx)
 + **Blog:** [Aspose.Slides for Cloud Blog](http://www.aspose.com/blogs/aspose-products/aspose-slides-product-family.html)
